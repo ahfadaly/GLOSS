@@ -1,0 +1,47 @@
+.abuot_bg{
+    background-image: radial-gradient(ellipse closest-corner at center, #ffffff 30%, #9fbed1 100%);
+    padding: 40px;
+}
+.title{
+    font-size: 32px;
+    color: #454646;
+    line-height: 36px;
+    font-weight: bold;   
+}
+.info{
+    color: #0074ba;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.who_we{
+    background-image: radial-gradient(ellipse closest-corner at center, #e9f0f5 0%, #96b7cb 100%);
+    padding: 50px 0;
+    text-align: center;
+}
+ .about_title{
+    font-size: 32px;
+    color: #454646;
+    line-height: 36px;
+    font-weight: bold;
+ }
+ .item{
+     border: solid 5px #FFF !important;
+ }
+
+ .name{
+    color: #2794c4;
+    font-size: 17px;
+ }
+ .about_footer{
+      background-image: radial-gradient(ellipse closest-corner at center, #ffffff 30%, #9fbed1 100%);
+      padding: 50px;
+ }
+ .text_info{
+    color: #2099ec;
+    font-size: 16px;
+ }
+ .ul_list{
+    list-style-type: circle;
+}

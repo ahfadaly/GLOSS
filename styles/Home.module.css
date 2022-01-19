@@ -1,0 +1,60 @@
+
+.home{
+  background-image: url(../public/images/templatemo_hometop_bg.jpg);
+  width: 100%;
+  background-size: cover;
+  padding: 35px;
+}
+.home img{
+  animation: home-img 5s linear infinite;
+  position: relative;
+}
+  @keyframes home-img {
+    0%, 100% {
+    top: 0;
+    }
+    50%{
+      top: -50px;
+    }
+  } 
+
+ .title{
+   color: #0074BA ;
+  }
+.desc{
+  margin: 0 0 10px;
+  width: 90%;
+  color: #666;
+}
+
+/* ========================== */
+ .icon{
+  background-image: radial-gradient(ellipse closest-corner at center, #ffffff 30%, #9fbed1 100%);
+  padding: 60px;
+  cursor: pointer;
+  transition: transform 1s ease-out;
+}
+.icon:hover{
+  transform: translate(0, -10px);
+}
+
+.heading{
+  font-size: 27px;
+  color: #0383d0;
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap;
+}
+.link{
+  width: 120px;
+  margin: 60px auto;
+  border: 1px solid #ffffff;
+  outline: 1px solid #82b4d4;
+  text-align: center;
+  line-height: 30px;
+  color: #0a71b3;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: red;
+}
+/* #217EB9 */
