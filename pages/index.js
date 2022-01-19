@@ -5,7 +5,7 @@ import Img from '../public/images/templatemo_building.png'
 import watch from '../public/images/templatemo_icon_watch.png'
 import Bay from '../public/images/templatemo_icon_bay.png'
 import search from '../public/images/templatemo_icon_search.png'
-import Link from 'next/Link'
+import Link from 'next/link'
 
 
 export default function Home() {
