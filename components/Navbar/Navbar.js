@@ -1,9 +1,5 @@
 import React from 'react';
 import Link from 'next/link'
-
-
-
-ff
 const Navbar = () => {
     return (
       
